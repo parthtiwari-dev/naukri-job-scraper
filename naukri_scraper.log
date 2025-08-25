@@ -1,0 +1,14 @@
+2025-08-25 10:10:04,057 - INFO - Starting scrape: keyword='python developer', location='bangalore', max_results=50
+2025-08-25 10:10:04,057 - INFO - Scraping page 1 (jobs collected: 0)
+2025-08-25 10:10:04,057 - INFO - Making API request (attempt 1)
+2025-08-25 10:10:05,613 - INFO - Processing 20 jobs from page 1 (Total available: 49961)
+2025-08-25 10:10:08,337 - INFO - Scraping page 2 (jobs collected: 20)
+2025-08-25 10:10:08,338 - INFO - Making API request (attempt 1)
+2025-08-25 10:10:09,535 - INFO - Processing 20 jobs from page 2 (Total available: 49961)
+2025-08-25 10:10:11,259 - INFO - Scraping page 3 (jobs collected: 40)
+2025-08-25 10:10:11,261 - INFO - Making API request (attempt 1)
+2025-08-25 10:10:12,315 - INFO - Processing 20 jobs from page 3 (Total available: 49961)
+2025-08-25 10:10:14,937 - INFO - Scraping completed. Collected 50 jobs
+2025-08-25 10:10:14,951 - INFO - Saved 50 jobs to naukri_python_developer_bangalore.csv
+2025-08-25 10:10:15,458 - INFO - Saved 50 jobs to naukri_python_developer_bangalore.xlsx
+2025-08-25 10:10:15,472 - INFO - Scraping process completed successfully
